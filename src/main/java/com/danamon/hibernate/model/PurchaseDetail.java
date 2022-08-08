@@ -38,6 +38,10 @@ public class PurchaseDetail {
         this.quantity = quantity;
     }
 
+    public PurchaseDetail() {
+
+    }
+
     public Integer getId() {
         return id;
     }

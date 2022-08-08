@@ -2,7 +2,6 @@ package com.danamon.hibernate.dao;
 
 import com.danamon.hibernate.config.HibernateConfig;
 import com.danamon.hibernate.model.Product;
-import com.danamon.hibernate.model.Product;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 
